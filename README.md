@@ -136,9 +136,9 @@ b := Baz{
 In this task we are going to play around with a small web server, the web server is not accomplishing much yet but it will be useful to show some nice Go features.
 
 💡Things to do:
-- cd into `cmd/hello-web`
+- cd into `cmd/task-4`
 - you should know by now how to compile and run  the code ;)
-- have a look at the `better-logs.go` file, can you improve the log middleware as the comments mentioned?
+- have a look at the `middlewares.go` file, can you improve the log middleware as the comments mentioned?
 
 
 ## Task 5 - Hello Goroutines
